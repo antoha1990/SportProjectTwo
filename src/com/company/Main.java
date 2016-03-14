@@ -17,6 +17,7 @@ public class Main {
         klichina.setRank(Rank.MC);
         klichina.printo();
         klichina.getSexuallity();
+        //anton
 
 
     }
